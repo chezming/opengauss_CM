@@ -20,3 +20,43 @@
 3、	是否可以新增与网关不通时的保护机制，如某节点发现与网关不通，自己降备，防止对端强启导致双主等（云和恩墨）
 4、	评估与已有两节点的实现是否存在冲突，影响后续合并（华为）
 5、	按会议结论，设计文档部分内容补充（云和恩墨）
+
+-----邮件原件-----
+
+您好！
+  
+openGauss CM SIG 邀请您参加 2022-10-28 14:20 召开的Zoom会议
+
+会议主题：CM sig会议
+
+会议内容：
+CM集群支持2节点模式需求设计评审
+
+会议链接：https://us06web.zoom.us/j/83456844821?pwd=SHRhVWNHcktGTGk2RnVnSWRKUFJ4UT09
+
+温馨提醒：建议接入会议后修改参会人的姓名，也可以使用您在gitee.com的ID
+
+提前申报议题请编辑：https://etherpad.opengauss.org/p/CM-meetings
+
+更多资讯尽在：https://opengauss.org/zh/
+
+
+
+
+Hello!
+
+openGauss CM SIG invites you to attend the Zoom conference will be held at 2022-10-28 14:20,
+
+The subject of the conference is CM sig会议,
+
+Summary:
+CM集群支持2节点模式需求设计评审
+
+You can join the meeting at https://us06web.zoom.us/j/83456844821?pwd=SHRhVWNHcktGTGk2RnVnSWRKUFJ4UT09.
+
+Note: You are advised to change the participant name after joining the conference or use your ID at gitee.com.
+
+Add topics: https://etherpad.opengauss.org/p/CM-meetings
+
+More information: https://opengauss.org/en/
+
